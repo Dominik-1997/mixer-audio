@@ -7,11 +7,11 @@ Sam projekt jest w miarę prosty, a jego najważniejsze części to mikrokontrol
 
 # Części
 
-2 x Płytka stykowa (wystarczyłaby jedna ale chciałem mieć więcej miejsca)
-1 x Lolin32 lite (ESP32)
-5 x Potencjometr obrotowy 1k ohm
-1 x Kabel micro USB to USB
-22 x Kabel male-to-male
+- 2 x Płytka stykowa (wystarczyłaby jedna ale chciałem mieć więcej miejsca)
+- 1 x Lolin32 lite (ESP32)
+- 5 x Potencjometr obrotowy 1k ohm
+- 1 x Kabel micro USB to USB
+- 22 x Kabel male-to-male
 
 # Budowa
 
