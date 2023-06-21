@@ -1,4 +1,7 @@
 ## mixer-audio
+
+filmik: https://youtu.be/5t6lNPpcW_k
+
 # Idea i założenia projektu
 
 Celem tego projektu było stworzenie praktycznego urządzenia, które będę mógł wykorzystywać w codziennym życiu. Zdecydowałem się zaprojektować mikser audio.
